@@ -8,7 +8,9 @@ A compact SQL Server project demonstrating relational database design and implem
 - ERD generated using SSMS Database Diagrams
 
 ## Schema
+
 Tables:
+
 - Course
 - Faculty
 - Student
