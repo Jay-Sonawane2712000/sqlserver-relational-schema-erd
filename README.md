@@ -29,8 +29,8 @@ Key relationships:
 ## How to run (SSMS)
 
 1. Connect to your local SQL Server instance (e.g., `.\SQLEXPRESS`).
-2. Run: `sql/schema.sql`
-3. Use the test queries at the end of the script to verify objects.
+2. Run `sql/schema.sql`.
+3. Run the test queries at the end of the script to verify the tables and relationships.
 
 ## Artifacts
 
