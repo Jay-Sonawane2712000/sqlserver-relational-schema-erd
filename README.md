@@ -36,3 +36,4 @@ Key relationships:
 
 - ERD: `docs/erd.png`
 - SSMS execution proof: `docs/ssms-run.png`
+- SQL script: `sql/schema.sql`
