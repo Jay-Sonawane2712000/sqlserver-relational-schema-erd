@@ -5,7 +5,7 @@ A compact SQL Server project demonstrating relational database design and implem
 - Primary Keys and Foreign Keys
 - CHECK / UNIQUE constraints for validation
 - Safe DROP + CREATE workflow
-- Test queries to verify tables and relationships
+- Test queries that verify tables and relationships
 - ERD generated using SSMS Database Diagrams
 
 ## Schema
